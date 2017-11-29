@@ -1,5 +1,5 @@
 // ESP8266 WebServer - using DHT11 sensor and no SD Card
-// (c) D L Bird 2016
+// (c) D L Bird 2017
 //
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
